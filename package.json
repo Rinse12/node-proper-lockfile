@@ -1,5 +1,5 @@
 {
-  "name": "proper-lockfile",
+  "name": "@plebbit/proper-lockfile",
   "version": "4.1.2",
   "description": "A inter-process and inter-machine lockfile utility that works on a local or network file system",
   "keywords": [
@@ -14,7 +14,7 @@
   "homepage": "https://github.com/moxystudio/node-proper-lockfile",
   "repository": {
     "type": "git",
-    "url": "git@github.com:moxystudio/node-proper-lockfile.git"
+    "url": "git@github.com:plebbit/node-proper-lockfile.git"
   },
   "license": "MIT",
   "main": "index.js",
